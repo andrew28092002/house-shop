@@ -1,8 +1,4 @@
-Проект, выполненный на курсе Js-разработчик от WebCademy
+# [Квадратный метр](https://andrew28092002.github.io/house-shop/)
+![изображение](https://user-images.githubusercontent.com/98597980/236427481-45104b6c-8ec0-499d-91fa-978132a71512.png)
 
-Сборка webpack 
-Выполнен в MVC-шаблоне
-SPA-application
-Работа с API, запросы по Fetch
-
-[Page](https://andrew28092002.github.io/house-shop/)
+Проект выполнен в стиле SPA и MVC-шаблоне. Асинхронные запросы выполняются с помощью браузерного fetch
